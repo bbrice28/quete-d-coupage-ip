@@ -28,3 +28,6 @@ On a donc comme attribution des adresses:
 - Pôle développement: 172.16.1.64/29, soit des adresses allant de 172.16.1.64 à 172.16.1.79
 - Pôle administratif: 172.16.1.80/27, soit des adresses allant de 172.16.1.80 à 172.16.1.111 
 - Pôle technicien: 172.16.1.112/27, soit des adresses allant de 172.16.1.112 à 172.16.1.143
+
+
+N.B: Pour chaque point, la premiere adresse est celle du reseau, et la dernière adresse est celle du broadcast.
